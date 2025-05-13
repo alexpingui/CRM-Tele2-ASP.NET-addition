@@ -1,0 +1,235 @@
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\appsettings.json
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\CRM Tele2 ASP.staticwebassets.runtime.json
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\CRM Tele2 ASP.staticwebassets.endpoints.json
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\CRM Tele2 ASP.exe
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\CRM Tele2 ASP.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\CRM Tele2 ASP.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\CRM Tele2 ASP.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\CRM Tele2 ASP.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\CRM Tele2 ASP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\CRM Tele2 ASP.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\CRM Tele2 ASP.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\CRM Tele2 ASP.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\CRM Tele2 ASP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\CRM Tele2 ASP.RazorAssemblyInfo.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\CRM Tele2 ASP.RazorAssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\scopedcss\bundle\CRM Tele2 ASP.styles.css
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\scopedcss\projectbundle\CRM Tele2 ASP.bundle.scp.css
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\r4imemx1tt-61n19gt1b8.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\99j43951zv-bqjiyaj88i.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\txd3zzw53f-c2jlpeoesf.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\cdq7uxupsg-erw9l3u2r3.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\zoll6strbf-aexeepp0ev.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\g056l5xkks-d7shbmvgxk.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\r2efyoym2u-ausgxo2sd3.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\d48q9d81gj-k8d9w2qqmf.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\vdwg3v7r3b-cosvhxvwiu.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\lj4bm1wldl-ub07r2b239.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\2wqoc83eze-fvhpjtyr6v.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\y0kozfcuiy-b7pk76d08c.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\3izdy0clbv-fsbi9cje9m.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\wn3ai5jyjq-rzd6atqjts.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\6i8w54thft-ee0r1s7dh0.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\8w2tz606ei-dxx9fxp4il.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\7tmdlzjaff-jd9uben2k1.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\pgdnql99a4-khv3u5hwcm.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\ms7msbtram-r4e9w2rdcm.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\wzm3j6tm60-lcd1t2u6c8.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\rnwz5qxctk-c2oey78nd0.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\g1l1wa7ghx-tdbxkamptv.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\ogelf1dj2u-j5mq2jizvt.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\o9gyrq5w66-06098lyss8.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\auwqkgwwer-nvvlpmu67g.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\7ul3f557g7-s35ty4nyc5.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\w75zx61ewi-pj5nd1wqec.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\b3adc4q0hx-46ein0sx1k.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\4cl4di6vz5-v0zj4ognzu.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\8u5e49k75g-37tfw0ft22.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\4edwpai7r4-hrwsygsryq.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\mxoaf14m71-pk9g2wxc8p.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\scr4t8kl2d-ft3s53vfgj.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\bzc8d9rhop-6cfz1n2cew.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\89f9cwivs8-6pdc2jztkx.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\s4ty9ty8p9-493y06b0oq.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\45mgogu9t5-iovd86k7lj.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\837t3qkaer-vr1egmr9el.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\18v4s521e2-kbrnm935zg.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\ii8k59hk1r-jj8uyg4cgr.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\qe3ts4l9ho-y7v9cxd14o.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\t2d77dyuxj-notf2xhcfb.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\v6qvzugkas-h1s4sie4z3.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\6j4j6q25fj-63fj8s7r0e.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\8h83a5mo7q-0j3bgjxly4.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\2kqlvl4333-47otxtyo56.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\0u6pi9rsnb-4v8eqarkd7.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\zo376pcxks-356vix0kms.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\ldj1dfw15p-83jwlth58m.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\v5p8ki4gtf-mrlpezrjn3.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\glj17un8nc-lzl9nlhx6b.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\usgvgusiy6-ag7o75518u.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\4uc9ckueix-x0q3zqp4vz.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\l7cja585sh-0i3buxo5is.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\z05k6fo5if-o1o13a6vjx.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\67axm5z0su-ttgo8qnofa.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\6mpn9yoose-2z0ns9nrw6.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\nz0q1mzqxd-muycvpuwrr.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\vtpld515gf-87fc7y1x7t.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\lr1ta5pyzt-mlv21k5csn.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\iiqh500p6q-9xwhkts6jd.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\dz2ai9a5kn-9xwhkts6jd.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\staticwebassets\msbuild.CRM Tele2 ASP.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\staticwebassets\msbuild.CRM Tele2 ASP.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\staticwebassets\msbuild.build.CRM Tele2 ASP.props
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.CRM Tele2 ASP.props
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.CRM Tele2 ASP.props
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\CRM Tele2 ASP.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\refint\CRM Tele2 ASP.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\CRM Tele2 ASP.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\CRM Tele2 ASP.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\ref\CRM Tele2 ASP.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\8371tpmwbp-n5rwwu12z7.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\jdpjefpksm-jbe4e2k0pa.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\g2o32matr5-3r8b2a0bt1.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\q25s26abwn-vot4n7q0rb.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\CRM Tele2 ASP.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\CRM Tele.34C1E566.Up2Date
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Humanizer.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\n25mzei8i7-uv693auvpt.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\af8dhugzm6-swnc7l023d.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM Tele2 ASP\obj\Debug\net9.0\compressed\bf6sht4hgx-7x0phb3wv4.gz

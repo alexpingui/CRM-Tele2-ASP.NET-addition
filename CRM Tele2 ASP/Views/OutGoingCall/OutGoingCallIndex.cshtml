@@ -1,0 +1,63 @@
+﻿@model ClientCallViewModel
+@{
+    var jsonOptions = new JsonSerializerOptions
+            {
+                PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+            };
+}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная</title>
+    <link rel="stylesheet" href="~/css/OutGoingCall.css" asp-append-version="true" />
+</head>
+
+<body>
+    <div class="container">
+        <div class="stack-panel">
+            <h1>История</h1>
+            <div id="CallHistoryDiv">
+                <table id="callHistoryTable">
+                    <thead>
+                        <tr>
+                            <th>Комментарий</th>
+                            <th>Дата последнего контакта</th>
+                            <th>Отложено на</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                    </tbody>
+                </table>
+            </div>
+            <form asp-action="CreateCall" asp-controller="OutGoingCall" method="post">
+                <div>
+                    <label for="phoneInput">Номер телефона</label>
+                    <input type="text" asp-for="Call.ClientPhoneNumber" id="phoneInput" class="form-control" autocomplete="off" placeholder="Номер телефона" value="+77" />
+                    <div id="suggestions" class="list-group"></div>
+                </div>
+                <div>
+                    <label for="clientName">Имя клиента</label>
+                    <input type="text" asp-for="Call.ClientName" id="clientName" class="form-control" placeholder="Имя" />
+                </div>
+                <div>
+                    <label for="clientAddress">Адрес клиента</label>
+                    <input type="text" asp-for="Call.ClientAddress" id="clientAddress" class="form-control" placeholder="Адрес" />
+                </div>
+                <textarea placeholder="Комментарий" asp-for="Call.Comment"></textarea>
+                <input type="datetime" asp-for="Call.DateOfScheduledCall"/>
+                <button>Сохранить</button>
+            </form>
+        </div>
+    </div>
+    @if(Model != null)
+    {
+        <script>
+            var clientFromServer = @Html.Raw(JsonSerializer.Serialize(Model.Client, jsonOptions));
+            window.clientFromServer = clientFromServer;
+        </script>
+    }
+    
+    <script src="~/js/outgoing-call.js"></script>
+</body>
+

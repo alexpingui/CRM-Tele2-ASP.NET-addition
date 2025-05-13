@@ -1,0 +1,38 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Главная</title>
+    <link rel="stylesheet" href="~/css/mainPage.css" asp-append-version="true" />
+    <script src="~/js/addNumber.js"></script>
+</head>
+
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <button onclick="location.href='@Url.Action("Index", "AddNumber")'">Добавить</button>
+            <button onclick="location.href='@Url.Action("OutGoingCallIndex", "OutGoingCall")'">Исходящий</button>
+        </div>
+        <div class="main-content">
+            <h1>Назначенные</h1>
+            <table id="scheduledCallsTable">
+                <thead>
+                    <tr>
+                        <th>Имя</th>
+                        <th>Адрес</th>
+                        <th>Номер телефона</th>
+                        <th>Комментарий</th>
+                        <th>Дата последнего контакта</th>
+                        <th>Отложено на</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script src="~/js/home.js"></script>
+</body>

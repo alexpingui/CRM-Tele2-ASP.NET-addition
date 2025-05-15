@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CRM Tele2 ASP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6470d11cf67d935d6cdd58d72c583f5f17aa0ce")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de07846f079415b97cd045b416ae2029bb5e335f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CRM Tele2 ASP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CRM Tele2 ASP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

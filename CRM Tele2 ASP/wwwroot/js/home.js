@@ -1,7 +1,6 @@
 ﻿async function LoadScheduledCalls() {
     const response = await fetch(`/Home/GetScheduledCalls`);
     const calls = await response.json();
-    console.log(calls);
     const table = document.getElementById('scheduledCallsTable');
     const tbody = table.querySelector('tbody');
 

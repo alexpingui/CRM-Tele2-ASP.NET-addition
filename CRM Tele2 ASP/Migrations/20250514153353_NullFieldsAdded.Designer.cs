@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CRM_Tele2_ASP.Migrations
 {
     [DbContext(typeof(DataBaseContext))]
-    [Migration("20250508075238_InitialCreate")]
-    partial class InitialCreate
+    [Migration("20250514153353_NullFieldsAdded")]
+    partial class NullFieldsAdded
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -34,16 +34,14 @@ namespace CRM_Tele2_ASP.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
                     b.Property<string>("ClientAddress")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ClientName")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ClientPhoneNumber")
                         .IsRequired()
-                        .HasColumnType("nvarchar(450)");
+                        .HasColumnType("nvarchar(12)");
 
                     b.Property<string>("Comment")
                         .HasColumnType("nvarchar(max)");
@@ -64,18 +62,19 @@ namespace CRM_Tele2_ASP.Migrations
             modelBuilder.Entity("CRM_Tele2_ASP.Models.Client", b =>
                 {
                     b.Property<string>("PhoneNumber")
-                        .HasColumnType("nvarchar(450)");
+                        .HasMaxLength(12)
+                        .HasColumnType("nvarchar(12)");
 
                     b.Property<string>("Address")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.Property<int>("Id")
                         .HasColumnType("int");
 
                     b.Property<string>("Name")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                        .HasMaxLength(100)
+                        .HasColumnType("nvarchar(100)");
 
                     b.HasKey("PhoneNumber");
 
@@ -85,17 +84,12 @@ namespace CRM_Tele2_ASP.Migrations
             modelBuilder.Entity("CRM_Tele2_ASP.Models.Call", b =>
                 {
                     b.HasOne("CRM_Tele2_ASP.Models.Client", "Client")
-                        .WithMany("Calls")
+                        .WithMany()
                         .HasForeignKey("ClientPhoneNumber")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("Client");
-                });
-
-            modelBuilder.Entity("CRM_Tele2_ASP.Models.Client", b =>
-                {
-                    b.Navigation("Calls");
                 });
 #pragma warning restore 612, 618
         }

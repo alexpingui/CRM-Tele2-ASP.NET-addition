@@ -35,12 +35,19 @@ namespace CRM_Tele2_ASP.Controllers
 
         public async Task<IActionResult> CreateCall(Call call)
         {
-            call.DateOfCall = DateTime.Now;
-            db.Calls.Add(call);
+            if(call.ClientPhoneNumber == null || call.ClientPhoneNumber.Length < 12)
+                ModelState.AddModelError("Call.ClientPhoneNumber", "Это поле является обязательным");
 
-            await db.SaveChangesAsync();
+            if(ModelState.IsValid)
+            {
+                call.DateOfCall = DateTime.Now;
+                db.Calls.Add(call);
 
-            return RedirectToAction("Index", "Home");
+                await db.SaveChangesAsync();
+
+                return RedirectToAction("Index", "Home");
+            }
+            return View("OutGoingCallIndex");
         }
 
         public JsonResult SearchClientsByNumber(string numberPart)
@@ -59,7 +66,13 @@ namespace CRM_Tele2_ASP.Controllers
                                       dateOfScheduledCall = c.DateOfScheduledCall
                                   })
                                   .ToList();
-            return Json(results);
+            var calls = results.Select(c => new
+            {
+                c.label,
+                dateOfCall = c.dateOfCall.ToString("dd.MM.yyyy HH:mm"),
+                dateOfScheduledCall = c.dateOfScheduledCall?.ToString("dd.MM.yyyy HH: mm")
+            });
+            return Json(calls);
         }
     }
 }

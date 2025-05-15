@@ -7,3 +7,10 @@ main{
     height: 100%;
     width: 100%;
 }
+.text-danger {
+    color: orangered;
+}
+table, th, td {
+    border-collapse: collapse;
+    border: 1px solid black;
+}

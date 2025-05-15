@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM Tele2 ASP\\CRM Tele2 ASP.csproj": {}
+    "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\CRM Tele2 ASP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM Tele2 ASP\\CRM Tele2 ASP.csproj": {
+    "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\CRM Tele2 ASP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM Tele2 ASP\\CRM Tele2 ASP.csproj",
+        "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\CRM Tele2 ASP.csproj",
         "projectName": "CRM Tele2 ASP",
-        "projectPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM Tele2 ASP\\CRM Tele2 ASP.csproj",
+        "projectPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\CRM Tele2 ASP.csproj",
         "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM Tele2 ASP\\obj\\",
+        "outputPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -81,7 +81,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

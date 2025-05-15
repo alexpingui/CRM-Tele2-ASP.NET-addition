@@ -3,6 +3,9 @@
     height: 100%;
 }
 
+body {
+    margin: 10px 100px;
+}
 .container {
     width: 100%;
     height: 100%
@@ -35,4 +38,13 @@ form {
     background-color: #eee;
 }
 
-
+input, textarea, button {
+    margin: 10px 0;
+}
+.clientPhoneInputDiv {
+    display: flex;
+    flex-direction: column;
+}
+.callCell{
+    border:
+}

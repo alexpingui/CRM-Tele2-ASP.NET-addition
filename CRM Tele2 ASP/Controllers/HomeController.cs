@@ -24,8 +24,19 @@ public class HomeController : Controller
 
     public async Task<JsonResult> GetScheduledCalls()
     {
-        var calls = await db.Calls.Where(c => c.DateOfScheduledCall <= DateTime.Today).ToListAsync();
-        return Json(calls);
+        var calls = await db.Calls
+        .Where(c => c.DateOfScheduledCall <= DateTime.Today)
+        .ToListAsync();
+
+        var result = calls.Select(c => new {
+            c.ClientName,
+            c.ClientAddress,
+            c.ClientPhoneNumber,
+            c.Comment,
+            DateOfCall = c.DateOfCall.ToString("dd.MM.yyyy HH:mm"),
+            DateOfScheduledCall = c.DateOfScheduledCall?.ToString("dd.MM.yyyy HH:mm")
+        });
+        return Json(result);
     }
 
     [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

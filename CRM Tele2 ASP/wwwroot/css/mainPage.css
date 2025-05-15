@@ -27,3 +27,6 @@
     overflow: auto;
     background-color: white;
 }
+td, tr {
+    cursor: pointer;
+}

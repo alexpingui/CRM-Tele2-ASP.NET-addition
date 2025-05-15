@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\alexey\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2 asp\\crm-tele2-asp.net-addition\\crm tele2 asp\\controllers\\outgoingcallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|solutionrelative:crm tele2 asp\\controllers\\outgoingcallcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\alexey\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2 asp\\crm-tele2-asp.net-addition\\crm tele2 asp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|solutionrelative:crm tele2 asp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\alexey\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2 asp\\crm-tele2-asp.net-addition\\crm tele2 asp\\wwwroot\\js\\outgoing-call.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|solutionrelative:crm tele2 asp\\wwwroot\\js\\outgoing-call.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\alexey\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2 asp\\crm-tele2-asp.net-addition\\crm tele2 asp\\views\\outgoingcall\\outgoingcallindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|solutionrelative:crm tele2 asp\\views\\outgoingcall\\outgoingcallindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\alexey\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2 asp\\crm-tele2-asp.net-addition\\crm tele2 asp\\wwwroot\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|solutionrelative:crm tele2 asp\\wwwroot\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\alexey\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2 asp\\crm-tele2-asp.net-addition\\crm tele2 asp\\models\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|solutionrelative:crm tele2 asp\\models\\call.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\alexey\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2 asp\\crm-tele2-asp.net-addition\\crm tele2 asp\\wwwroot\\css\\outgoingcall.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|solutionrelative:crm tele2 asp\\wwwroot\\css\\outgoingcall.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\alexey\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2 asp\\crm-tele2-asp.net-addition\\crm tele2 asp\\wwwroot\\css\\mainpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|solutionrelative:crm tele2 asp\\wwwroot\\css\\mainpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\alexey\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2 asp\\crm-tele2-asp.net-addition\\crm tele2 asp\\wwwroot\\js\\addnumber.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|solutionrelative:crm tele2 asp\\wwwroot\\js\\addnumber.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\alexey\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2 asp\\crm-tele2-asp.net-addition\\crm tele2 asp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|solutionrelative:crm tele2 asp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\alexey\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2 asp\\crm-tele2-asp.net-addition\\crm tele2 asp\\controllers\\addnumbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|solutionrelative:crm tele2 asp\\controllers\\addnumbercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\alexey\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2 asp\\crm-tele2-asp.net-addition\\crm tele2 asp\\wwwroot\\css\\addnumber.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|solutionrelative:crm tele2 asp\\wwwroot\\css\\addnumber.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\alexey\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2 asp\\crm-tele2-asp.net-addition\\crm tele2 asp\\views\\addnumber\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|solutionrelative:crm tele2 asp\\views\\addnumber\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\alexey\\kasu\\c#\\\u043F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\crm tele2 asp\\crm-tele2-asp.net-addition\\crm tele2 asp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{815C4077-60D7-42FC-9763-F79094D99E18}|CRM Tele2 ASP\\CRM Tele2 ASP.csproj|solutionrelative:crm tele2 asp\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "home.js",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\home.js",
+              "RelativeDocumentMoniker": "CRM Tele2 ASP\\wwwroot\\js\\home.js",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\home.js",
+              "RelativeToolTip": "CRM Tele2 ASP\\wwwroot\\js\\home.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-15T09:52:10.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CRM Tele2 ASP\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CRM Tele2 ASP\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:50:33.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OutGoingCallController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\Controllers\\OutGoingCallController.cs",
+              "RelativeDocumentMoniker": "CRM Tele2 ASP\\Controllers\\OutGoingCallController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\Controllers\\OutGoingCallController.cs",
+              "RelativeToolTip": "CRM Tele2 ASP\\Controllers\\OutGoingCallController.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAA5wEoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T09:35:50.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "mainPage.css",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\css\\mainPage.css",
+              "RelativeDocumentMoniker": "CRM Tele2 ASP\\wwwroot\\css\\mainPage.css",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\css\\mainPage.css",
+              "RelativeToolTip": "CRM Tele2 ASP\\wwwroot\\css\\mainPage.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-15T09:33:52.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "addNumber.js",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\addNumber.js",
+              "RelativeDocumentMoniker": "CRM Tele2 ASP\\wwwroot\\js\\addNumber.js",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\addNumber.js",
+              "RelativeToolTip": "CRM Tele2 ASP\\wwwroot\\js\\addNumber.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-15T09:32:54.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "outgoing-call.js",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\outgoing-call.js",
+              "RelativeDocumentMoniker": "CRM Tele2 ASP\\wwwroot\\js\\outgoing-call.js",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\outgoing-call.js",
+              "RelativeToolTip": "CRM Tele2 ASP\\wwwroot\\js\\outgoing-call.js",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-05-15T09:12:36.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "CRM Tele2 ASP\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "CRM Tele2 ASP\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-15T08:59:53.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "addNumber.css",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\css\\addNumber.css",
+              "RelativeDocumentMoniker": "CRM Tele2 ASP\\wwwroot\\css\\addNumber.css",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\css\\addNumber.css",
+              "RelativeToolTip": "CRM Tele2 ASP\\wwwroot\\css\\addNumber.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-15T08:52:31.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OutGoingCall.css",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\css\\OutGoingCall.css",
+              "RelativeDocumentMoniker": "CRM Tele2 ASP\\wwwroot\\css\\OutGoingCall.css",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\css\\OutGoingCall.css",
+              "RelativeToolTip": "CRM Tele2 ASP\\wwwroot\\css\\OutGoingCall.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-15T08:50:06.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OutGoingCallIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\Views\\OutGoingCall\\OutGoingCallIndex.cshtml",
+              "RelativeDocumentMoniker": "CRM Tele2 ASP\\Views\\OutGoingCall\\OutGoingCallIndex.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\Views\\OutGoingCall\\OutGoingCallIndex.cshtml",
+              "RelativeToolTip": "CRM Tele2 ASP\\Views\\OutGoingCall\\OutGoingCallIndex.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwC0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T07:59:25.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\Models\\Client.cs",
+              "RelativeDocumentMoniker": "CRM Tele2 ASP\\Models\\Client.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\Models\\Client.cs",
+              "RelativeToolTip": "CRM Tele2 ASP\\Models\\Client.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:28:05.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Call.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\Models\\Call.cs",
+              "RelativeDocumentMoniker": "CRM Tele2 ASP\\Models\\Call.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\Models\\Call.cs",
+              "RelativeToolTip": "CRM Tele2 ASP\\Models\\Call.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T15:28:02.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AddNumberController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\Controllers\\AddNumberController.cs",
+              "RelativeDocumentMoniker": "CRM Tele2 ASP\\Controllers\\AddNumberController.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\Controllers\\AddNumberController.cs",
+              "RelativeToolTip": "CRM Tele2 ASP\\Controllers\\AddNumberController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAADwvygAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T08:40:44.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\Views\\AddNumber\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRM Tele2 ASP\\Views\\AddNumber\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ALEXEY\\KASU\\C#\\\u041F\u0440\u043E\u0435\u043A\u0442\u0438\u043A\u0438\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\Views\\AddNumber\\Index.cshtml",
+              "RelativeToolTip": "CRM Tele2 ASP\\Views\\AddNumber\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T07:59:41.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

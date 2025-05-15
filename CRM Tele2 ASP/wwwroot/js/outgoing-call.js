@@ -47,27 +47,29 @@ phoneInput.addEventListener('input', async function () {
     }
 
 async function LoadCallHistory(phoneNumber) {
-        const callHistory = document.getElementById('callHistoryTable');
+    const callHistory = document.getElementById('callHistoryTable');
     const response = await fetch(`/OutGoingCall/LoadCallHistory?phoneNumber=${encodeURIComponent(phoneNumber)}`);
-        const calls = await response.json();
+    const calls = await response.json();
 
-        const tbody = callHistory.querySelector('tbody');
+    const tbody = callHistory.querySelector('tbody');
 
-        while (tbody.firstChild) {
-            tbody.removeChild(tbody.firstChild);
-        }
-
-        calls.forEach(call => {
-            const item = document.createElement('tr');
-
-            const commentCell = item.insertCell();
-            const dateOfCallCell = item.insertCell();
-            const dateOfScheduledCallCell = item.insertCell();
-
-            commentCell.innerHTML = call.label;
-            dateOfCallCell.innerHTML = call.dateOfCall;
-            dateOfScheduledCallCell.innerHTML = call.dateOfScheduledCall;
-
-            tbody.appendChild(item);
-        });
+    while (tbody.firstChild) {
+        tbody.removeChild(tbody.firstChild);
     }
+
+    calls.forEach(call => {
+        const item = document.createElement('tr');
+
+        item.className = "callCell";
+
+        const commentCell = item.insertCell();
+        const dateOfCallCell = item.insertCell();
+        const dateOfScheduledCallCell = item.insertCell();
+
+        commentCell.innerHTML = call.label;
+        dateOfCallCell.innerHTML = call.dateOfCall;
+        dateOfScheduledCallCell.innerHTML = call.dateOfScheduledCall;
+
+        tbody.appendChild(item);
+    });
+}

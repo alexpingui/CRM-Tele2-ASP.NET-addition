@@ -10,12 +10,21 @@
 <body>
     <div class="container">
         <div class="stack-panel">
-            <form asp-action="CreateClient" asp-controller="AddNumber">
+            <form asp-action="CreateClientAndCall" asp-controller="AddNumber">
                 <input type="text" asp-for="Client.Name" placeholder="Введите имя" />
-                <input type="text" asp-for="Client.PhoneNumber" placeholder="Введите номер" value="+77"/>
+                <span asp-validation-for="Client.Name" class="text-danger"></span>
+
+                <input type="text" asp-for="Client.PhoneNumber" asp-for="Call.ClientPhoneNumber" placeholder="Введите номер" value="+77"/>
+                <span asp-validation-for="Client.PhoneNumber" class="text-danger"></span>
+
                 <input type="text" asp-for="Client.Address" placeholder="Введите адрес"/>
+                <span asp-validation-for="Client.Address" class="text-danger"></span>
+
                 <textarea asp-for="Call.Comment" placeholder="Комментарий"></textarea>
+
                 <input type="date" asp-for="Call.DateOfScheduledCall" placeholder="Выберите дату контакта"/>
+                <span asp-validation-for="Call.DateOfScheduledCall" class="text-danger"></span>
+
                 <button>Добавить</button>
             </form>
         </div>

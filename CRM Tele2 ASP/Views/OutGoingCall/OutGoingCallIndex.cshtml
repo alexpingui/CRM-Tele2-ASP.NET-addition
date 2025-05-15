@@ -31,21 +31,19 @@
                 </table>
             </div>
             <form asp-action="CreateCall" asp-controller="OutGoingCall" method="post">
-                <div>
-                    <label for="phoneInput">Номер телефона</label>
+                <div class="clientPhoneInputDiv">
                     <input type="text" asp-for="Call.ClientPhoneNumber" id="phoneInput" class="form-control" autocomplete="off" placeholder="Номер телефона" value="+77" />
+                    <span asp-validation-for="Call.ClientPhoneNumber" class="text-danger"></span>
                     <div id="suggestions" class="list-group"></div>
                 </div>
                 <div>
-                    <label for="clientName">Имя клиента</label>
                     <input type="text" asp-for="Call.ClientName" id="clientName" class="form-control" placeholder="Имя" />
                 </div>
                 <div>
-                    <label for="clientAddress">Адрес клиента</label>
                     <input type="text" asp-for="Call.ClientAddress" id="clientAddress" class="form-control" placeholder="Адрес" />
                 </div>
                 <textarea placeholder="Комментарий" asp-for="Call.Comment"></textarea>
-                <input type="datetime" asp-for="Call.DateOfScheduledCall"/>
+                <input type="datetime-local" asp-for="Call.DateOfScheduledCall"/>
                 <button>Сохранить</button>
             </form>
         </div>

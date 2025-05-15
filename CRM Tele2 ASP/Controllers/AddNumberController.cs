@@ -19,20 +19,29 @@ namespace CRM_Tele2_ASP.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateClient(ClientCallViewModel model)
+        public async Task<IActionResult> CreateClientAndCall(ClientCallViewModel model)
         {
-            db.Clients.Add(model.Client);
+            if (model.Call.DateOfScheduledCall == null)
+            {
+                ModelState.AddModelError("Call.DateOfScheduledCall", "Укажите дату следующего звонка");               
+            }
+            ModelState.Remove("Call.ClientPhoneNumber");
+            if (ModelState.IsValid)
+            {
+                db.Clients.Add(model.Client);
+                await db.SaveChangesAsync();
 
-            model.Call.ClientName = model.Client.Name;
-            model.Call.ClientAddress = model.Client.Address;
-            model.Call.ClientPhoneNumber = model.Client.PhoneNumber;
-            model.Call.DateOfCall = DateTime.Now;
+                model.Call.ClientPhoneNumber = model.Client.PhoneNumber;
+                model.Call.ClientName = model.Client.Name;
+                model.Call.ClientAddress = model.Client.Address;
+                model.Call.DateOfCall = DateTime.Now;
+                db.Calls.Add(model.Call);
 
-            db.Calls.Add(model.Call);
+                await db.SaveChangesAsync();
+                return Redirect("/");
+            }
 
-            await db.SaveChangesAsync();
-
-            return RedirectToAction("Index", "Home");
+            return View("Index");
         }
 
     }

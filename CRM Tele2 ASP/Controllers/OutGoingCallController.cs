@@ -35,7 +35,13 @@ namespace CRM_Tele2_ASP.Controllers
 
         public async Task<IActionResult> CreateCall(Call call)
         {
-            if(call.ClientPhoneNumber == null || call.ClientPhoneNumber.Length < 12)
+            bool isClientExist = db.Clients.Contains(new Client { PhoneNumber = call.ClientPhoneNumber });
+            if(!isClientExist)
+            {
+                db.Add(new Client { Name = call.ClientName, Address = call.ClientAddress, PhoneNumber = call.ClientPhoneNumber });
+                await db.SaveChangesAsync();
+            }
+            if (call.ClientPhoneNumber == null || call.ClientPhoneNumber.Length < 12)
                 ModelState.AddModelError("Call.ClientPhoneNumber", "Это поле является обязательным");
 
             if(ModelState.IsValid)

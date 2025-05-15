@@ -1,9 +1,9 @@
 ﻿@model ClientCallViewModel
 @{
     var jsonOptions = new JsonSerializerOptions
-            {
-                PropertyNamingPolicy = JsonNamingPolicy.CamelCase
-            };
+    {
+        PropertyNamingPolicy = JsonNamingPolicy.CamelCase
+    };
 }
 <head>
     <meta charset="UTF-8">
@@ -32,18 +32,20 @@
             </div>
             <form asp-action="CreateCall" asp-controller="OutGoingCall" method="post">
                 <div class="clientPhoneInputDiv">
-                    <input type="text" asp-for="Call.ClientPhoneNumber" id="phoneInput" class="form-control" autocomplete="off" placeholder="Номер телефона" value="+77" />
+                    <input type="text" asp-for="Call.ClientPhoneNumber" maxlength="12" id="phoneInput" class="form-control" autocomplete="off" placeholder="Номер телефона" value="+77" />
                     <span asp-validation-for="Call.ClientPhoneNumber" class="text-danger"></span>
                     <div id="suggestions" class="list-group"></div>
                 </div>
                 <div>
-                    <input type="text" asp-for="Call.ClientName" id="clientName" class="form-control" placeholder="Имя" />
+                    <input type="text" asp-for="Call.ClientName" maxlength="100" id="clientName" class="form-control" placeholder="Имя" />
                 </div>
                 <div>
-                    <input type="text" asp-for="Call.ClientAddress" id="clientAddress" class="form-control" placeholder="Адрес" />
+                    <input type="text" asp-for="Call.ClientAddress" maxlength="100" id="clientAddress" class="form-control" placeholder="Адрес" />
                 </div>
-                <textarea placeholder="Комментарий" asp-for="Call.Comment"></textarea>
-                <input type="datetime-local" asp-for="Call.DateOfScheduledCall"/>
+                <textarea placeholder="Комментарий" maxlength="500" asp-for="Call.Comment"></textarea>
+
+                <label for="date-of-scheduled-call-input">Назначить звонок</label>
+                <input id="date-of-scheduled-call-input" type="datetime-local" asp-for="Call.DateOfScheduledCall" />
                 <button>Сохранить</button>
             </form>
         </div>
@@ -55,7 +57,6 @@
             window.clientFromServer = clientFromServer;
         </script>
     }
-    
     <script src="~/js/outgoing-call.js"></script>
 </body>
 

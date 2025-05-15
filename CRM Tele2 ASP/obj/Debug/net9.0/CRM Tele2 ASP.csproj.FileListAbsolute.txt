@@ -464,8 +464,8 @@ C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики
 C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM-Tele2-ASP.NET-addition\CRM Tele2 ASP\obj\Debug\net9.0\ref\CRM Tele2 ASP.dll
 C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM-Tele2-ASP.NET-addition\CRM Tele2 ASP\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM-Tele2-ASP.NET-addition\CRM Tele2 ASP\obj\Debug\net9.0\compressed\q25s26abwn-nv8thnda5u.gz
-C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM-Tele2-ASP.NET-addition\CRM Tele2 ASP\obj\Debug\net9.0\compressed\n25mzei8i7-dm96w4o3ej.gz
-C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM-Tele2-ASP.NET-addition\CRM Tele2 ASP\obj\Debug\net9.0\compressed\jdpjefpksm-8y4sm2jugn.gz
 C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM-Tele2-ASP.NET-addition\CRM Tele2 ASP\obj\Debug\net9.0\compressed\8371tpmwbp-r1bc7f1gzv.gz
 C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM-Tele2-ASP.NET-addition\CRM Tele2 ASP\obj\Debug\net9.0\compressed\af8dhugzm6-fd4gul5vu9.gz
-C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM-Tele2-ASP.NET-addition\CRM Tele2 ASP\obj\Debug\net9.0\compressed\bf6sht4hgx-megppv1lm9.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM-Tele2-ASP.NET-addition\CRM Tele2 ASP\obj\Debug\net9.0\compressed\jdpjefpksm-2cu842yoif.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM-Tele2-ASP.NET-addition\CRM Tele2 ASP\obj\Debug\net9.0\compressed\bf6sht4hgx-4ltkgkshvz.gz
+C:\Users\Asus\OneDrive\Рабочий стол\ALEXEY\KASU\C#\Проектики\CRM Tele2 ASP\CRM-Tele2-ASP.NET-addition\CRM Tele2 ASP\obj\Debug\net9.0\compressed\n25mzei8i7-2m08v5rc27.gz

@@ -39,12 +39,9 @@ form {
 }
 
 input, textarea, button {
-    margin: 10px 0;
+    margin: 10px 0;    
 }
 .clientPhoneInputDiv {
     display: flex;
     flex-direction: column;
-}
-.callCell{
-    border:
 }

@@ -26,6 +26,8 @@ public class HomeController : Controller
     {
         var calls = await db.Calls
         .Where(c => c.DateOfScheduledCall <= DateTime.Today)
+        .GroupBy(c => c.ClientPhoneNumber)
+        .Select(g => g.OrderByDescending(c => c.DateOfScheduledCall).FirstOrDefault())
         .ToListAsync();
 
         var result = calls.Select(c => new {

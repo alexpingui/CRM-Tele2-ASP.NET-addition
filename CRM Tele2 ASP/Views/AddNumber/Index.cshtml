@@ -22,7 +22,8 @@
 
                 <textarea asp-for="Call.Comment" placeholder="Комментарий"></textarea>
 
-                <input type="date" asp-for="Call.DateOfScheduledCall" placeholder="Выберите дату контакта"/>
+                <label for="date-of-scheduled-call-input">Назначить звонок</label>
+                <input id="date-of-scheduled-call-input" type="datetime-local" asp-for="Call.DateOfScheduledCall" />
                 <span asp-validation-for="Call.DateOfScheduledCall" class="text-danger"></span>
 
                 <button>Добавить</button>

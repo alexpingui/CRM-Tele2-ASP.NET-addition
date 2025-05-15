@@ -1,5 +1,7 @@
 ﻿const phoneInput = document.getElementById('phoneInput');
 const suggestions = document.getElementById('suggestions');
+const callHistory = document.getElementById('callHistoryTable');
+const callHistorytbody = callHistory.querySelector('tbody');
 
 if (window.clientFromServer) {
     window.addEventListener('DOMContentLoaded', () => {
@@ -12,29 +14,39 @@ if (window.clientFromServer) {
 
 
 phoneInput.addEventListener('input', async function () {
-        const query = this.value;
+    while (callHistorytbody.firstChild) {
+        callHistorytbody.removeChild(callHistorytbody.firstChild);
+    }
 
-        if (query.length >= 5) {
-            const response = await fetch(`/OutGoingCall/SearchClientsByNumber?numberPart=${encodeURIComponent(query)}`);
-            const clients = await response.json();
+    const query = this.value;
 
-            suggestions.innerHTML = '';
+    if (query.length >= 5) {
+        const response = await fetch(`/OutGoingCall/SearchClientsByNumber?numberPart=${encodeURIComponent(query)}`);
+        const clients = await response.json();
 
-            clients.forEach(client => {
-                const item = document.createElement('div');
+        suggestions.innerHTML = '';
 
-                item.classList.add('list-group-item');
-                item.textContent = client.phoneNumber;
+        clients.forEach(client => {
+            const item = document.createElement('div');
 
-                item.addEventListener('click', () => {
-                    loadInformation(client);
-                });
-                suggestions.appendChild(item);
+            item.classList.add('list-group-item');
+            item.textContent = client.phoneNumber;
+
+            item.addEventListener('click', () => {
+                loadInformation(client);
             });
+            suggestions.appendChild(item);
+        });
 
+        if (query.length == 12 && clients.length == 0)
+        {
+            suggestions.innerHTML = '';
+            confirm("Клиент с данным номером не найден. Он будет добавлен в базу автоматически");
         }
+
+    }
         else suggestions.innerHTML = '';
-    })
+})
 
 
     function loadInformation(client) {
@@ -47,14 +59,12 @@ phoneInput.addEventListener('input', async function () {
     }
 
 async function LoadCallHistory(phoneNumber) {
-    const callHistory = document.getElementById('callHistoryTable');
     const response = await fetch(`/OutGoingCall/LoadCallHistory?phoneNumber=${encodeURIComponent(phoneNumber)}`);
     const calls = await response.json();
 
-    const tbody = callHistory.querySelector('tbody');
 
-    while (tbody.firstChild) {
-        tbody.removeChild(tbody.firstChild);
+    while (callHistorytbody.firstChild) {
+        callHistorytbody.removeChild(callHistorytbody.firstChild);
     }
 
     calls.forEach(call => {
@@ -70,6 +80,6 @@ async function LoadCallHistory(phoneNumber) {
         dateOfCallCell.innerHTML = call.dateOfCall;
         dateOfScheduledCallCell.innerHTML = call.dateOfScheduledCall;
 
-        tbody.appendChild(item);
+        callHistorytbody.appendChild(item);
     });
 }

@@ -36,29 +36,29 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r1bc7f1gzv"},{"Name":"integrity","Value":"sha256-ESoyQsAjY\u002B\u002BSfiU1oWdX6FSjHE3nd6uVzoUnqNjQUfY="},{"Name":"label","Value":"_content/CRM Tele2 ASP/css/mainPage.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"523"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ESoyQsAjY\u002B\u002BSfiU1oWdX6FSjHE3nd6uVzoUnqNjQUfY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 09:34:20 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CRM Tele2 ASP/css/OutGoingCall.2m08v5rc27.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\OutGoingCall.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2m08v5rc27"},{"Name":"integrity","Value":"sha256-5udqiG7tBJ6YDflHrgEciw4f\u002BgibM6bQ1snQSsfgCKM="},{"Name":"label","Value":"_content/CRM Tele2 ASP/css/OutGoingCall.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"657"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225udqiG7tBJ6YDflHrgEciw4f\u002BgibM6bQ1snQSsfgCKM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 13:30:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CRM Tele2 ASP/css/OutGoingCall.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\OutGoingCall.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-y5muUgWXfsf1p/rRvkDvllxX45kVfSEsHiYzXqpMVWw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"679"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022y5muUgWXfsf1p/rRvkDvllxX45kVfSEsHiYzXqpMVWw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 09:15:45 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5udqiG7tBJ6YDflHrgEciw4f\u002BgibM6bQ1snQSsfgCKM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"657"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225udqiG7tBJ6YDflHrgEciw4f\u002BgibM6bQ1snQSsfgCKM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 13:30:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CRM Tele2 ASP/css/OutGoingCall.dm96w4o3ej.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\OutGoingCall.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dm96w4o3ej"},{"Name":"integrity","Value":"sha256-y5muUgWXfsf1p/rRvkDvllxX45kVfSEsHiYzXqpMVWw="},{"Name":"label","Value":"_content/CRM Tele2 ASP/css/OutGoingCall.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"679"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022y5muUgWXfsf1p/rRvkDvllxX45kVfSEsHiYzXqpMVWw=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 09:15:45 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CRM Tele2 ASP/css/site.8y4sm2jugn.css">
+    <StaticWebAssetEndpoint Include="_content/CRM Tele2 ASP/css/site.2cu842yoif.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8y4sm2jugn"},{"Name":"integrity","Value":"sha256-ENby7qPH2ME5OAxW69DCSKuhAdNrD/Cyby6OwUxEG\u002BI="},{"Name":"label","Value":"_content/CRM Tele2 ASP/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"239"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ENby7qPH2ME5OAxW69DCSKuhAdNrD/Cyby6OwUxEG\u002BI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 09:16:56 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"2cu842yoif"},{"Name":"integrity","Value":"sha256-bsj5Jrbk1PDNu79gL4Lg2v0yh8xZONDfxU\u002Bpk4rMwUU="},{"Name":"label","Value":"_content/CRM Tele2 ASP/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"241"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bsj5Jrbk1PDNu79gL4Lg2v0yh8xZONDfxU\u002Bpk4rMwUU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 13:22:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CRM Tele2 ASP/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ENby7qPH2ME5OAxW69DCSKuhAdNrD/Cyby6OwUxEG\u002BI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"239"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ENby7qPH2ME5OAxW69DCSKuhAdNrD/Cyby6OwUxEG\u002BI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 09:16:56 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bsj5Jrbk1PDNu79gL4Lg2v0yh8xZONDfxU\u002Bpk4rMwUU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"241"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022bsj5Jrbk1PDNu79gL4Lg2v0yh8xZONDfxU\u002Bpk4rMwUU=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 13:22:28 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CRM Tele2 ASP/favicon.61n19gt1b8.ico">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
@@ -96,17 +96,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-3SPNHZokO3X51\u002BKgw8PFSesYyi1jYxgbywhV7x/Ek7E="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1355"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u00223SPNHZokO3X51\u002BKgw8PFSesYyi1jYxgbywhV7x/Ek7E=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 10:08:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CRM Tele2 ASP/js/outgoing-call.4ltkgkshvz.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\outgoing-call.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"4ltkgkshvz"},{"Name":"integrity","Value":"sha256-yLJARsABJZUWSGthGPAODpLzD0O9aHkfX/RxRjXIpZ0="},{"Name":"label","Value":"_content/CRM Tele2 ASP/js/outgoing-call.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2801"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022yLJARsABJZUWSGthGPAODpLzD0O9aHkfX/RxRjXIpZ0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 13:19:41 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CRM Tele2 ASP/js/outgoing-call.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\outgoing-call.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-svtOEZF/eJfTgjCAmmekge0DfHikIUoqv2D4l0XaxSk="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2417"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022svtOEZF/eJfTgjCAmmekge0DfHikIUoqv2D4l0XaxSk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 10:13:05 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/CRM Tele2 ASP/js/outgoing-call.megppv1lm9.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\outgoing-call.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"megppv1lm9"},{"Name":"integrity","Value":"sha256-svtOEZF/eJfTgjCAmmekge0DfHikIUoqv2D4l0XaxSk="},{"Name":"label","Value":"_content/CRM Tele2 ASP/js/outgoing-call.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2417"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022svtOEZF/eJfTgjCAmmekge0DfHikIUoqv2D4l0XaxSk=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 10:13:05 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-yLJARsABJZUWSGthGPAODpLzD0O9aHkfX/RxRjXIpZ0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2801"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022yLJARsABJZUWSGthGPAODpLzD0O9aHkfX/RxRjXIpZ0=\u0022"},{"Name":"Last-Modified","Value":"Thu, 15 May 2025 13:19:41 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CRM Tele2 ASP/lib/bootstrap/dist/css/bootstrap-grid.bqjiyaj88i.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\bootstrap\dist\css\bootstrap-grid.css'))</AssetFile>

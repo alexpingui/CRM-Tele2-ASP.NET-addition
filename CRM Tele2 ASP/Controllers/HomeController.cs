@@ -24,25 +24,26 @@ public class HomeController : Controller
 
     public async Task<JsonResult> GetScheduledCalls()
     {
-        var allCalls = await db.Calls
-            .Where(c => c.DateOfScheduledCall < DateTime.Today.AddDays(1))
-            .ToListAsync();
+        var allCalls = await db.Calls.ToListAsync();
 
-        var grouped = allCalls
+        var latestCalls = allCalls
             .GroupBy(c => c.ClientPhoneNumber)
-            .Select(g => g.OrderByDescending(c => c.DateOfScheduledCall).First())
-            .OrderByDescending(c => c.DateOfScheduledCall)
-            .Select(c => new
-            {
-                c.ClientName,
-                c.ClientAddress,
-                c.ClientPhoneNumber,
-                c.Comment,
-                DateOfCall = c.DateOfCall.ToString("dd.MM.yyyy HH:mm"),
-                DateOfScheduledCall = c.DateOfScheduledCall?.ToString("dd.MM.yyyy HH:mm")
-            });
+            .Select(g => g.OrderByDescending(c => c.DateOfCall).First())
+            .Where(c => c.DateOfScheduledCall != null
+                     && c.DateOfScheduledCall < DateTime.Today.AddDays(1))
+            .OrderByDescending(c => c.DateOfScheduledCall);
 
-        return Json(grouped);
+        var result = latestCalls.Select(c => new
+        {
+            c.ClientName,
+            c.ClientAddress,
+            c.ClientPhoneNumber,
+            c.Comment,
+            DateOfCall = c.DateOfCall.ToString("dd.MM.yyyy HH:mm"),
+            DateOfScheduledCall = c.DateOfScheduledCall?.ToString("dd.MM.yyyy HH:mm")
+        });
+
+        return Json(result);
     }
 
 

@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Http.HttpResults;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Data.Common;
+using System.Text.RegularExpressions;
 
 namespace CRM_Tele2_ASP.Controllers
 {
@@ -36,14 +37,19 @@ namespace CRM_Tele2_ASP.Controllers
         public async Task<IActionResult> CreateCall(Call call)
         {
             bool isClientExist = db.Clients.Contains(new Client { PhoneNumber = call.ClientPhoneNumber });
+
             if(!isClientExist)
             {
                 db.Add(new Client { Name = call.ClientName, Address = call.ClientAddress, PhoneNumber = call.ClientPhoneNumber });
                 await db.SaveChangesAsync();
             }
+
             if (call.ClientPhoneNumber == null || call.ClientPhoneNumber.Length < 12)
                 ModelState.AddModelError("Call.ClientPhoneNumber", "Это поле является обязательным");
 
+            if (!Regex.IsMatch(call.ClientPhoneNumber!, @"^\+77\d{9}"))
+                ModelState.AddModelError("Call.ClientPhoneNumber", "Неверный формат номера. Введите телефон в формате +77...");
+            
             if(ModelState.IsValid)
             {
                 call.DateOfCall = DateTime.Now;

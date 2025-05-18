@@ -36,21 +36,11 @@ namespace CRM_Tele2_ASP.Controllers
 
         public async Task<IActionResult> CreateCall(Call call)
         {
-            bool isClientExist = db.Clients.Contains(new Client { PhoneNumber = call.ClientPhoneNumber });
+            await CreateClientIfClientNotExist(call);
 
-            if(!isClientExist)
-            {
-                db.Add(new Client { Name = call.ClientName, Address = call.ClientAddress, PhoneNumber = call.ClientPhoneNumber });
-                await db.SaveChangesAsync();
-            }
+            await ValidateCallData(call);
 
-            if (call.ClientPhoneNumber == null || call.ClientPhoneNumber.Length < 12)
-                ModelState.AddModelError("Call.ClientPhoneNumber", "Это поле является обязательным");
-
-            if (!Regex.IsMatch(call.ClientPhoneNumber!, @"^\+77\d{9}"))
-                ModelState.AddModelError("Call.ClientPhoneNumber", "Неверный формат номера. Введите телефон в формате +77...");
-            
-            if(ModelState.IsValid)
+            if (ModelState.IsValid)
             {
                 call.DateOfCall = DateTime.Now;
                 db.Calls.Add(call);
@@ -60,6 +50,26 @@ namespace CRM_Tele2_ASP.Controllers
                 return RedirectToAction("Index", "Home");
             }
             return View("OutGoingCallIndex");
+        }
+
+        public async Task ValidateCallData(Call call)
+        {
+            if (call.ClientPhoneNumber == null || call.ClientPhoneNumber.Length < 12)
+                ModelState.AddModelError("Call.ClientPhoneNumber", "Это поле является обязательным");
+
+            if (!Regex.IsMatch(call.ClientPhoneNumber!, @"^\+77\d{9}"))
+                ModelState.AddModelError("Call.ClientPhoneNumber", "Неверный формат номера. Введите телефон в формате +77...");
+        }
+
+        public async Task CreateClientIfClientNotExist(Call call)
+        {
+            bool isClientExist = db.Clients.Contains(new Client { PhoneNumber = call.ClientPhoneNumber });
+
+            if (!isClientExist)
+            {
+                db.Add(new Client { Name = call.ClientName, Address = call.ClientAddress, PhoneNumber = call.ClientPhoneNumber });
+                await db.SaveChangesAsync();
+            }
         }
 
         public JsonResult SearchClientsByNumber(string numberPart)

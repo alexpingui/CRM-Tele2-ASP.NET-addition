@@ -31,7 +31,7 @@ public class HomeController : Controller
             .Select(g => g.OrderByDescending(c => c.DateOfCall).First())
             .Where(c => c.DateOfScheduledCall != null
                      && c.DateOfScheduledCall < DateTime.Today.AddDays(1))
-            .OrderByDescending(c => c.DateOfScheduledCall);
+            .OrderBy(c => c.DateOfScheduledCall);
 
         var result = latestCalls.Select(c => new
         {

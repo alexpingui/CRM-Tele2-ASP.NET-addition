@@ -20,7 +20,7 @@ phoneInput.addEventListener('input', async function () {
 
     const query = this.value;
 
-    if (query.length >= 5) {
+    if (query.length > 5) {
         const response = await fetch(`/OutGoingCall/SearchClientsByNumber?numberPart=${encodeURIComponent(query)}`);
         const clients = await response.json();
 

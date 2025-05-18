@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "JiEn4RKQJJRXhAtBKMNh+027AOF6NIBwCDgjguTbp5A=",
+  "Hash": "vJRoHl30xlkU1e4Ej7CccKXZIobki6WeoCWqQoxbh64=",
   "Source": "CRM Tele2 ASP",
   "BasePath": "_content/CRM Tele2 ASP",
   "Mode": "Default",
@@ -479,12 +479,12 @@
       "OriginalItemSpec": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\af8dhugzm6-fd4gul5vu9.gz",
+      "Identity": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\af8dhugzm6-ovvu5wo6jy.gz",
       "SourceId": "CRM Tele2 ASP",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRM Tele2 ASP",
-      "RelativePath": "js/home#[.{fingerprint=fd4gul5vu9}]?.js.gz",
+      "RelativePath": "js/home#[.{fingerprint=ovvu5wo6jy}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -493,8 +493,8 @@
       "RelatedAsset": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\home.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "03zgjrwlxb",
-      "Integrity": "ZGuDTuIy5mrCg2+VleonYiqpDdkKBjAgcZhK8v959Bk=",
+      "Fingerprint": "76hzefgd6t",
+      "Integrity": "r+tzs7vsIo4J1OoWp808wK2utgTb2jO/cMJSZE5sM8Q=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\home.js"
@@ -542,12 +542,12 @@
       "OriginalItemSpec": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\bf6sht4hgx-4ltkgkshvz.gz",
+      "Identity": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\bf6sht4hgx-jt4t6jiiaw.gz",
       "SourceId": "CRM Tele2 ASP",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/CRM Tele2 ASP",
-      "RelativePath": "js/outgoing-call#[.{fingerprint=4ltkgkshvz}]?.js.gz",
+      "RelativePath": "js/outgoing-call#[.{fingerprint=jt4t6jiiaw}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -556,8 +556,8 @@
       "RelatedAsset": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\outgoing-call.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ypbnsltqq6",
-      "Integrity": "FvsmgktvDzckQ+sWvWyfTinO3ibITiAaJqPWBv7B+ho=",
+      "Fingerprint": "og8vqk72ks",
+      "Integrity": "mFa/Wen0efZ+Eu99GsRqJfdzhKv6qKEZAhsg4I2vaBU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\outgoing-call.js"
@@ -1648,8 +1648,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "fd4gul5vu9",
-      "Integrity": "3SPNHZokO3X51+Kgw8PFSesYyi1jYxgbywhV7x/Ek7E=",
+      "Fingerprint": "ovvu5wo6jy",
+      "Integrity": "5KHkWItcpV4R6/zRRNX/y03rJ/G3FtIReJob6JrYuNU=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\home.js"
@@ -1669,8 +1669,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "4ltkgkshvz",
-      "Integrity": "yLJARsABJZUWSGthGPAODpLzD0O9aHkfX/RxRjXIpZ0=",
+      "Fingerprint": "jt4t6jiiaw",
+      "Integrity": "p09SYorE8/cIyBSNKqJUM8bH1KizU5oG1YBnyeRDNTo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\outgoing-call.js"
@@ -5322,8 +5322,8 @@
       ]
     },
     {
-      "Route": "js/home.fd4gul5vu9.js",
-      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\af8dhugzm6-fd4gul5vu9.gz",
+      "Route": "js/home.js",
+      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\af8dhugzm6-ovvu5wo6jy.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -5342,15 +5342,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZGuDTuIy5mrCg2+VleonYiqpDdkKBjAgcZhK8v959Bk=\""
+          "Value": "\"r+tzs7vsIo4J1OoWp808wK2utgTb2jO/cMJSZE5sM8Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 10:08:12 GMT"
+          "Value": "Sun, 18 May 2025 07:04:40 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -5366,26 +5366,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"3SPNHZokO3X51+Kgw8PFSesYyi1jYxgbywhV7x/Ek7E=\""
+          "Value": "W/\"5KHkWItcpV4R6/zRRNX/y03rJ/G3FtIReJob6JrYuNU=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "fd4gul5vu9"
-        },
-        {
-          "Name": "label",
-          "Value": "js/home.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-3SPNHZokO3X51+Kgw8PFSesYyi1jYxgbywhV7x/Ek7E="
+          "Value": "sha256-5KHkWItcpV4R6/zRRNX/y03rJ/G3FtIReJob6JrYuNU="
         }
       ]
     },
     {
-      "Route": "js/home.fd4gul5vu9.js",
+      "Route": "js/home.js",
       "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\home.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5395,7 +5387,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1355"
+          "Value": "1357"
         },
         {
           "Name": "Content-Type",
@@ -5403,35 +5395,27 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3SPNHZokO3X51+Kgw8PFSesYyi1jYxgbywhV7x/Ek7E=\""
+          "Value": "\"5KHkWItcpV4R6/zRRNX/y03rJ/G3FtIReJob6JrYuNU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 10:08:12 GMT"
+          "Value": "Sun, 18 May 2025 07:04:40 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "fd4gul5vu9"
-        },
-        {
-          "Name": "label",
-          "Value": "js/home.js"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-3SPNHZokO3X51+Kgw8PFSesYyi1jYxgbywhV7x/Ek7E="
+          "Value": "sha256-5KHkWItcpV4R6/zRRNX/y03rJ/G3FtIReJob6JrYuNU="
         }
       ]
     },
     {
-      "Route": "js/home.fd4gul5vu9.js.gz",
-      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\af8dhugzm6-fd4gul5vu9.gz",
+      "Route": "js/home.js.gz",
+      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\af8dhugzm6-ovvu5wo6jy.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5448,11 +5432,164 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ZGuDTuIy5mrCg2+VleonYiqpDdkKBjAgcZhK8v959Bk=\""
+          "Value": "\"r+tzs7vsIo4J1OoWp808wK2utgTb2jO/cMJSZE5sM8Q=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 10:08:12 GMT"
+          "Value": "Sun, 18 May 2025 07:04:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-r+tzs7vsIo4J1OoWp808wK2utgTb2jO/cMJSZE5sM8Q="
+        }
+      ]
+    },
+    {
+      "Route": "js/home.ovvu5wo6jy.js",
+      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\af8dhugzm6-ovvu5wo6jy.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001984126984"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "503"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r+tzs7vsIo4J1OoWp808wK2utgTb2jO/cMJSZE5sM8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 07:04:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"5KHkWItcpV4R6/zRRNX/y03rJ/G3FtIReJob6JrYuNU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ovvu5wo6jy"
+        },
+        {
+          "Name": "label",
+          "Value": "js/home.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5KHkWItcpV4R6/zRRNX/y03rJ/G3FtIReJob6JrYuNU="
+        }
+      ]
+    },
+    {
+      "Route": "js/home.ovvu5wo6jy.js",
+      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\home.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1357"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5KHkWItcpV4R6/zRRNX/y03rJ/G3FtIReJob6JrYuNU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 07:04:40 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ovvu5wo6jy"
+        },
+        {
+          "Name": "label",
+          "Value": "js/home.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5KHkWItcpV4R6/zRRNX/y03rJ/G3FtIReJob6JrYuNU="
+        }
+      ]
+    },
+    {
+      "Route": "js/home.ovvu5wo6jy.js.gz",
+      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\af8dhugzm6-ovvu5wo6jy.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "503"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"r+tzs7vsIo4J1OoWp808wK2utgTb2jO/cMJSZE5sM8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 18 May 2025 07:04:40 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5470,7 +5607,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "fd4gul5vu9"
+          "Value": "ovvu5wo6jy"
         },
         {
           "Name": "label",
@@ -5478,18 +5615,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ZGuDTuIy5mrCg2+VleonYiqpDdkKBjAgcZhK8v959Bk="
+          "Value": "sha256-r+tzs7vsIo4J1OoWp808wK2utgTb2jO/cMJSZE5sM8Q="
         }
       ]
     },
     {
-      "Route": "js/home.js",
-      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\af8dhugzm6-fd4gul5vu9.gz",
+      "Route": "js/outgoing-call.js",
+      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\bf6sht4hgx-jt4t6jiiaw.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001984126984"
+          "Quality": "0.001096491228"
         }
       ],
       "ResponseHeaders": [
@@ -5499,15 +5636,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "503"
+          "Value": "911"
         },
         {
           "Name": "ETag",
-          "Value": "\"ZGuDTuIy5mrCg2+VleonYiqpDdkKBjAgcZhK8v959Bk=\""
+          "Value": "\"mFa/Wen0efZ+Eu99GsRqJfdzhKv6qKEZAhsg4I2vaBU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 10:08:12 GMT"
+          "Value": "Fri, 16 May 2025 10:30:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5527,163 +5664,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"3SPNHZokO3X51+Kgw8PFSesYyi1jYxgbywhV7x/Ek7E=\""
+          "Value": "W/\"p09SYorE8/cIyBSNKqJUM8bH1KizU5oG1YBnyeRDNTo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3SPNHZokO3X51+Kgw8PFSesYyi1jYxgbywhV7x/Ek7E="
+          "Value": "sha256-p09SYorE8/cIyBSNKqJUM8bH1KizU5oG1YBnyeRDNTo="
         }
       ]
     },
     {
-      "Route": "js/home.js",
-      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\home.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1355"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"3SPNHZokO3X51+Kgw8PFSesYyi1jYxgbywhV7x/Ek7E=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 10:08:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-3SPNHZokO3X51+Kgw8PFSesYyi1jYxgbywhV7x/Ek7E="
-        }
-      ]
-    },
-    {
-      "Route": "js/home.js.gz",
-      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\af8dhugzm6-fd4gul5vu9.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "503"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ZGuDTuIy5mrCg2+VleonYiqpDdkKBjAgcZhK8v959Bk=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 10:08:12 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ZGuDTuIy5mrCg2+VleonYiqpDdkKBjAgcZhK8v959Bk="
-        }
-      ]
-    },
-    {
-      "Route": "js/outgoing-call.4ltkgkshvz.js",
-      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\bf6sht4hgx-4ltkgkshvz.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001095290252"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "912"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FvsmgktvDzckQ+sWvWyfTinO3ibITiAaJqPWBv7B+ho=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 13:19:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"yLJARsABJZUWSGthGPAODpLzD0O9aHkfX/RxRjXIpZ0=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "4ltkgkshvz"
-        },
-        {
-          "Name": "label",
-          "Value": "js/outgoing-call.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-yLJARsABJZUWSGthGPAODpLzD0O9aHkfX/RxRjXIpZ0="
-        }
-      ]
-    },
-    {
-      "Route": "js/outgoing-call.4ltkgkshvz.js",
+      "Route": "js/outgoing-call.js",
       "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\outgoing-call.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -5693,7 +5685,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "2801"
+          "Value": "2800"
         },
         {
           "Name": "Content-Type",
@@ -5701,11 +5693,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yLJARsABJZUWSGthGPAODpLzD0O9aHkfX/RxRjXIpZ0=\""
+          "Value": "\"p09SYorE8/cIyBSNKqJUM8bH1KizU5oG1YBnyeRDNTo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 13:19:41 GMT"
+          "Value": "Fri, 16 May 2025 10:30:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-p09SYorE8/cIyBSNKqJUM8bH1KizU5oG1YBnyeRDNTo="
+        }
+      ]
+    },
+    {
+      "Route": "js/outgoing-call.js.gz",
+      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\bf6sht4hgx-jt4t6jiiaw.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "911"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mFa/Wen0efZ+Eu99GsRqJfdzhKv6qKEZAhsg4I2vaBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 10:30:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mFa/Wen0efZ+Eu99GsRqJfdzhKv6qKEZAhsg4I2vaBU="
+        }
+      ]
+    },
+    {
+      "Route": "js/outgoing-call.jt4t6jiiaw.js",
+      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\bf6sht4hgx-jt4t6jiiaw.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001096491228"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "911"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mFa/Wen0efZ+Eu99GsRqJfdzhKv6qKEZAhsg4I2vaBU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 10:30:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"p09SYorE8/cIyBSNKqJUM8bH1KizU5oG1YBnyeRDNTo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jt4t6jiiaw"
+        },
+        {
+          "Name": "label",
+          "Value": "js/outgoing-call.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-p09SYorE8/cIyBSNKqJUM8bH1KizU5oG1YBnyeRDNTo="
+        }
+      ]
+    },
+    {
+      "Route": "js/outgoing-call.jt4t6jiiaw.js",
+      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\outgoing-call.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2800"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"p09SYorE8/cIyBSNKqJUM8bH1KizU5oG1YBnyeRDNTo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 16 May 2025 10:30:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5715,7 +5852,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4ltkgkshvz"
+          "Value": "jt4t6jiiaw"
         },
         {
           "Name": "label",
@@ -5723,13 +5860,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-yLJARsABJZUWSGthGPAODpLzD0O9aHkfX/RxRjXIpZ0="
+          "Value": "sha256-p09SYorE8/cIyBSNKqJUM8bH1KizU5oG1YBnyeRDNTo="
         }
       ]
     },
     {
-      "Route": "js/outgoing-call.4ltkgkshvz.js.gz",
-      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\bf6sht4hgx-4ltkgkshvz.gz",
+      "Route": "js/outgoing-call.jt4t6jiiaw.js.gz",
+      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\bf6sht4hgx-jt4t6jiiaw.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5738,7 +5875,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "912"
+          "Value": "911"
         },
         {
           "Name": "Content-Type",
@@ -5746,11 +5883,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FvsmgktvDzckQ+sWvWyfTinO3ibITiAaJqPWBv7B+ho=\""
+          "Value": "\"mFa/Wen0efZ+Eu99GsRqJfdzhKv6qKEZAhsg4I2vaBU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 13:19:41 GMT"
+          "Value": "Fri, 16 May 2025 10:30:18 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5768,7 +5905,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "4ltkgkshvz"
+          "Value": "jt4t6jiiaw"
         },
         {
           "Name": "label",
@@ -5776,144 +5913,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-FvsmgktvDzckQ+sWvWyfTinO3ibITiAaJqPWBv7B+ho="
-        }
-      ]
-    },
-    {
-      "Route": "js/outgoing-call.js",
-      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\bf6sht4hgx-4ltkgkshvz.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001095290252"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "912"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FvsmgktvDzckQ+sWvWyfTinO3ibITiAaJqPWBv7B+ho=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 13:19:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"yLJARsABJZUWSGthGPAODpLzD0O9aHkfX/RxRjXIpZ0=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yLJARsABJZUWSGthGPAODpLzD0O9aHkfX/RxRjXIpZ0="
-        }
-      ]
-    },
-    {
-      "Route": "js/outgoing-call.js",
-      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\wwwroot\\js\\outgoing-call.js",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "2801"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yLJARsABJZUWSGthGPAODpLzD0O9aHkfX/RxRjXIpZ0=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 13:19:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yLJARsABJZUWSGthGPAODpLzD0O9aHkfX/RxRjXIpZ0="
-        }
-      ]
-    },
-    {
-      "Route": "js/outgoing-call.js.gz",
-      "AssetFile": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\ALEXEY\\KASU\\C#\\Проектики\\CRM Tele2 ASP\\CRM-Tele2-ASP.NET-addition\\CRM Tele2 ASP\\obj\\Debug\\net9.0\\compressed\\bf6sht4hgx-4ltkgkshvz.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "912"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"FvsmgktvDzckQ+sWvWyfTinO3ibITiAaJqPWBv7B+ho=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 15 May 2025 13:19:41 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-FvsmgktvDzckQ+sWvWyfTinO3ibITiAaJqPWBv7B+ho="
+          "Value": "sha256-mFa/Wen0efZ+Eu99GsRqJfdzhKv6qKEZAhsg4I2vaBU="
         }
       ]
     },

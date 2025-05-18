@@ -11,9 +11,5 @@
         {
             Database.EnsureCreated();        
         }
-        protected override void OnModelCreating(ModelBuilder modelBuilder)
-        {
-
-        }
     }
 }

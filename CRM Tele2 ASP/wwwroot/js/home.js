@@ -22,6 +22,7 @@
 
         nameCell.innerHTML = call.clientName;
         addressCell.innerHTML = call.clientAddress;
+
         phoneNumberCell.innerHTML = call.clientPhoneNumber;
         commentCell.innerHTML = call.comment;
         dateOfCallCell.innerHTML = call.dateOfCall;
